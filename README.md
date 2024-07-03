@@ -36,10 +36,6 @@ To view or edit this project, you need:
     ```sh
     cd my-tech-goals-website
     ```
-3. **Open the project in your code editor:**
-    ```sh
-    code .
-    ```
 
 ### Running the Project
 
@@ -53,8 +49,6 @@ my-tech-goals-website/
 ├── styles.css # CSS file for styling
 └── script.js # JavaScript file for dynamic functionalities
 ```
-markdown
-Copy code
 
 ## Project Details
 
@@ -89,5 +83,5 @@ The website is hosted on [GitHub Pages](https://your-username.github.io/my-tech-
 ## Contact
 
 For any questions or feedback, please contact me at:
-- **Email:** [your-email@example.com](mailto:your-email@example.com)
-- **Slack:** [Your Slack Display Name]
+- **Email:** vster310@gmail.com (mailto:your-email@example.com)
+- **Slack:** Igbokwe Valerie 
