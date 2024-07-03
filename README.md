@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # My Tech Goals Website
 
 ## Overview
@@ -30,11 +31,11 @@ To view or edit this project, you need:
 
 1. **Clone the repository:**
     ```sh
-    git clone https://github.com/your-username/HNGProjects.git
+    git clone https://github.com/Val-ster/HNGProjects.git
     ```
 2. **Navigate to the project directory:**
     ```sh
-    cd Tech-goals
+    cd My-Tech-Goals
     ```
 
 ### Running the Project
