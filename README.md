@@ -29,7 +29,6 @@ To view or edit this project, you need:
 ### Installation
 
 **Clone the repository:**
-
     ```
     git clone https://github.com/Val-ster/HNGProjects.git
     ```
