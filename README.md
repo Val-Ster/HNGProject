@@ -30,11 +30,11 @@ To view or edit this project, you need:
 
 1. **Clone the repository:**
     ```sh
-    git clone https://github.com/your-username/my-tech-goals-website.git
+    git clone https://github.com/your-username/HNGProjects.git
     ```
 2. **Navigate to the project directory:**
     ```sh
-    cd my-tech-goals-website
+    cd Tech-goals
     ```
 
 ### Running the Project
