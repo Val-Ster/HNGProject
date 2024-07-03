@@ -74,10 +74,10 @@ The following elements have `data-testid` attributes for testing purposes:
 
 ## Hosting
 
-The website is hosted on [GitHub Pages](https://your-username.github.io/my-tech-goals-website) (replace with the actual URL).
+The website is hosted on [GitHub Pages](https://your-username.github.io/my-tech-goals-website) (https://val-ster.github.io/HNGProjects/).
 
 ## Contact
 
 For any questions or feedback, please contact me at:
-- **Email:** vster310@gmail.com (mailto:your-email@example.com)
+- **Email:** vster310@gmail.com
 - **Slack:** Igbokwe Valerie 
