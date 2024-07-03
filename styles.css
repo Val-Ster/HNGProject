@@ -15,6 +15,26 @@ body {
 h2 {
   font-size: 150%;
 }
-span{
+span {
   font-size: large;
+}
+@media (min-width: 768px) {
+  .container {
+    max-width: 750px;
+    margin: auto;
+  }
+}
+
+@media (min-width: 1024px) {
+  .container {
+    max-width: 1000px;
+    margin: auto;
+  }
+}
+
+@media (min-width: 1200px) {
+  .container {
+    max-width: 1200px;
+    margin: auto;
+  }
 }
