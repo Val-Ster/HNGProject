@@ -1,0 +1,20 @@
+body {
+  background-image: url("images/Background-picture.jpeg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  font-family: Arial, sans-serif;
+  color: #333;
+  margin: 0;
+  padding: 0;
+  color: black;
+}
+.introduction {
+  text-align: center;
+}
+h2 {
+  font-size: 150%;
+}
+span{
+  font-size: large;
+}
